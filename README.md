@@ -8,6 +8,7 @@
 ![alt text](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png "三栏式布局")
 
 ## [4. 定位和居中问题](http://ife.baidu.com/task/detail?taskId=4)
+![alt text](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png "定位和居中问题")
 
 ## [5. 零基础HTML及CSS编码（二）](http://ife.baidu.com/task/detail?taskId=5)
 
