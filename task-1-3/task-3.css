@@ -1,4 +1,4 @@
-﻿* {
+* {
   box-sizing: border-box;
 }
 html, body, div{
@@ -28,9 +28,7 @@ html, body, div{
 }
 
 .middle {
-  float: left;
-  margin: 0 20px;
-  width: calc(100% - 200px - 120px - 40px);
+  margin: 0 140px 0 220px;
 }
 .middle h3 {
   margin-top: 0;  
