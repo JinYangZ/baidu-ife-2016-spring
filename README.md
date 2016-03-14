@@ -5,7 +5,7 @@
 ## [2.零基础HTML及CSS编码（一）](http://ife.baidu.com/task/detail?taskId=2)
 
 ## [3.三栏式布局](http://ife.baidu.com/task/detail?taskId=3)
-[示例图](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png)
+![alt text](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png "三栏式布局")
 
 ## [4.定位和居中问题](http://ife.baidu.com/task/detail?taskId=4)
 
