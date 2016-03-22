@@ -28,17 +28,17 @@
 
     <div>您输入的值是：<span id="aqi-display">尚无录入</span></div>
 
-    <script type="text/javascript">
+      <script type="text/javascript">
 
-    (function() {
-      /*  
-      在注释下方写下代码
-      给按钮button绑定一个点击事件
-      在事件处理函数中
-      获取aqi-input输入的值，并显示在aqi-display中
-      */
+      (function() {
+        /*  
+        在注释下方写下代码
+        给按钮button绑定一个点击事件
+        在事件处理函数中
+        获取aqi-input输入的值，并显示在aqi-display中
+        */
 
-    })();
+      })();
 
     </script>
   </body>

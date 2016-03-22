@@ -23,6 +23,46 @@
     <div class="container">
       <aside>
         <h3>侧栏标题</h3>
+        <form>
+          <!-- this form need a lot of polish later on -->
+          <label>
+            email
+            <input type="email" name="email" placeholder="email">            
+          </label>
+          <label>
+            password
+            <input type="password" name="psw1" placeholder="******">            
+          </label>
+          <label>
+            password again
+            <input type="password" name="psw2" placeholder="******">            
+          </label>
+          <label>
+            gender
+            <input type="radio" name="gender"> 男
+            <input type="radio" name="gender"> 女            
+          </label>
+          <label>
+            city
+            <input list="cities" name="city" placeholder="纽约"> 
+            <datalist id="cities">
+              <option value="纽约"></option>
+              <option value="伦敦"></option>
+              <option value="东京"></option>
+            </datalist>
+          </label>
+          <label>
+            hobbies<br>
+            <input type="checkbox" name="hobbies"> 运动
+            <input type="checkbox" name="hobbies"> 艺术
+            <input type="checkbox" name="hobbies"> 科学
+          </label>
+          <label>
+            bio
+            <textarea name="bio"></textarea> 
+          </label>
+          <input type="submit" value="确认提交">
+        </form>
       </aside>
 
       <main>
@@ -30,7 +70,7 @@
           <h1>一级标题</h1>
           <h3>二级标题</h3>
           <div class="byline">作者 发表时间</div>
-          <p>很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落。<br>
+          <p>很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落很长段落。
           段落继续。<a href='http://ife.baidu.com'>链接到ife.baidu.com</a>。<strong>这是粗体字</strong>。
           </p>
           <img src="http://www.jinyongbbs.com/uploadfile/2011/0824/20110824040510894.jpg" alt="正文附图"/>
