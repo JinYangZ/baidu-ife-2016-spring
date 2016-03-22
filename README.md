@@ -32,10 +32,9 @@
 
 ## [第二阶段](http://mp.weixin.qq.com/s?__biz=MzA4MjUyNjY3Nw==&mid=402057593&idx=1&sn=ef20d1808470688bee1c8e242349b47c#rd)
 
-### [任务十三：零基础JavaScript编码（一）]()
+### [任务十三：零基础JavaScript编码（一）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-13)
 
-
-### [任务十四：零基础JavaScript编码（二）]()
+### [任务十四：零基础JavaScript编码（二）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-14)
 
 ### [任务十五：零基础JavaScript编码（三）]()
 
