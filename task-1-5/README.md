@@ -17,7 +17,7 @@
 
 ### 任务描述
 * 基于第一个任务“零基础HTML编码”的代码，参考 [示例图（点击查看）](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)，在步骤一的代码基础上增加CSS样式代码的编写
-![alt text](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg "零基础HTML及CSS编码（二）")
+![零基础HTML及CSS编码（二）](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)
 * 头部和底部的黑色区域始终是100%宽
 * 页面右侧部分为固定宽度，左侧保持与浏览器窗口变化同步自适应变化
 * 左侧的各个模块里面的内容宽度跟随左侧整体宽度同步自适应变化

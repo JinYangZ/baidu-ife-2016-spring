@@ -11,7 +11,7 @@
 
 ### 任务描述
 * 实现如 [示例图（点击打开）](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png) 的效果
-![alt text](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png "定位和居中问题")
+![定位和居中问题](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png)
 * 灰色元素水平垂直居中，有两个四分之一圆位于其左上角和右下角。
 
 ### 任务注意事项

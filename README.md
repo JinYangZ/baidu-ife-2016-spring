@@ -7,15 +7,16 @@
 ### [任务二：零基础HTML及CSS编码（一）](http://ife.baidu.com/task/detail?taskId=2)
 
 ### [任务三：三栏式布局](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-3)
-![alt text](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png "三栏式布局")
+![三栏式布局](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png)
 
 ### [任务四：定位和居中问题](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-4)
-![alt text](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png "定位和居中问题")
+![定位和居中问题](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png)
 
 ### [任务五：零基础HTML及CSS编码（二）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-5)
-![alt text](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg "零基础HTML及CSS编码（二）")
+![零基础HTML及CSS编码（二）](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)
 
-### [任务六：通过HTML及CSS模拟报纸排版](http://ife.baidu.com/task/detail?taskId=6)
+### [任务六：通过HTML及CSS模拟报纸排版](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-6)
+![通过HTML及CSS模拟报纸排版](http://7xrp04.com1.z0.glb.clouddn.com/task_1_6_2.jpg)
 
 ### [任务七：实现常见的技术产品官网的页面架构及样式布局](http://ife.baidu.com/task/detail?taskId=7)
 
