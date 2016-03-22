@@ -36,7 +36,7 @@
 
 ### [任务十四：零基础JavaScript编码（二）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-14)
 
-### [任务十五：零基础JavaScript编码（三）]()
+### [任务十五：零基础JavaScript编码（三）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-15)
 
 ### [任务十六：零基础JavaScript编码（四）]()
 

@@ -131,6 +131,11 @@ aside {
   width: 240px;
 }
 
+aside label {
+  display: block;
+  margin: 15px 0;
+}
+
 footer {
   background-color: #232323;
   height: 50px;
@@ -139,5 +144,6 @@ footer {
   text-align: center;
   padding: 15px;
 }
+
 
 
