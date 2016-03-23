@@ -7,20 +7,21 @@
 ### [任务二：零基础HTML及CSS编码（一）](http://ife.baidu.com/task/detail?taskId=2)
 
 ### [任务三：三栏式布局](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-3)
-![三栏式布局](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png)
+![Task 3 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png)
 
 ### [任务四：定位和居中问题](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-4)
-![定位和居中问题](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png)
+![Task 4 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png)
 
 ### [任务五：零基础HTML及CSS编码（二）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-5)
-![零基础HTML及CSS编码（二）](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)
+![Task 5 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)
 
 ### [任务六：通过HTML及CSS模拟报纸排版](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-6)
-![通过HTML及CSS模拟报纸排版](http://7xrp04.com1.z0.glb.clouddn.com/task_1_6_2.jpg)
+![Task 6 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_6_2.jpg)
 
 ### [任务七：实现常见的技术产品官网的页面架构及样式布局](http://ife.baidu.com/task/detail?taskId=7)
 
-### [任务八：响应式网格（栅格化）布局](http://ife.baidu.com/task/detail?taskId=8)
+### [任务八：响应式网格（栅格化）布局](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-8)
+![Task 8 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_8_1.png)
 
 ### [任务九：使用HTML/CSS实现一个复杂页面](http://ife.baidu.com/task/detail?taskId=9)
 
