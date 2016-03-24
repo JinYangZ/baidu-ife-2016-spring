@@ -34,8 +34,8 @@
           return city[1] > 60;
         });
 
-        var sorted = filtered.sort(function(current, next){
-          return next[1] > current[1];
+        var sorted = filtered.sort(function(next, current){
+          return +current[1] > +parseInt(next[1];
         });
 
         var lis = ''   
