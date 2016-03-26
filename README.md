@@ -6,11 +6,11 @@
 
 ### [任务二：零基础HTML及CSS编码（一）](http://ife.baidu.com/task/detail?taskId=2)
 
-### [任务三：三栏式布局](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-3)
-![Task 3 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png)
+### [任务三：三栏式布局](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
+![Task 3 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3-mockup.png)
 
-### [任务四：定位和居中问题](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-4)
-![Task 4 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png)
+### [任务四：定位和居中问题](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4.html)
+![Task 4 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4-mockup.png)
 
 ### [任务五：零基础HTML及CSS编码（二）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-5)
 ![Task 5 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)
