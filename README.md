@@ -1,5 +1,7 @@
 # 百度前端技术学院2016春季班任务
 
+http://andy1li.github.io/baidu-ife-2016-spring/
+
 ## 第一阶段
 
 ### [任务一：零基础HTML编码]
