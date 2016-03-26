@@ -3,27 +3,32 @@
   <head>
     <meta charset="utf-8">
     <title>IFE JavaScript Task 01</title>
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.css">
+    <link rel="stylesheet" href="task-16.css">
     <script src="task-16.js"></script>
   </head>
-<body>
-  <div>
-    <label>城市名称：<input id="aqi-city-input" type="text"></label><br>
-    <label>空气质量指数：<input id="aqi-value-input" type="text"></label><br>
-    <button id="add-btn">确认添加</button>
-  </div>
-  <table id="aqi-table">
-  <!-- 
-    <tr>
-      <td>城市</td><td>空气质量</td><td>操作</td>
-    </tr>
-    <tr>
-      <td>北京</td><td>90</td><td><button>删除</button></td>
-    </tr>
-    <tr>
-      <td>北京</td><td>90</td><td><button>删除</button></td>
-    </tr>
-   -->
-  </table>
-
-</body>
+  <body>
+    <div class="container">
+      <form id="form" class="form-group">
+        <label for="aqi-city-input">城市名称：</label>
+        <input id="aqi-city-input" class="form-control" type="text" placeholder="纽约（中英文）">
+        <label for="aqi-value-input">空气质量指数：</label>
+        <input id="aqi-value-input" class="form-control" type="text" placeholder="42（整数）">
+        <button id="add-btn" class="btn btn-lg btn-primary btn-block">确认添加</button>
+      </form>
+      <table id="aqi-table" class="table table-striped">
+        <!-- 
+          <tr>
+            <td>城市</td><td>空气质量</td><td>操作</td>
+          </tr>
+          <tr>
+            <td>北京</td><td>90</td><td><button>删除</button></td>
+          </tr>
+          <tr>
+            <td>北京</td><td>90</td><td><button>删除</button></td>
+          </tr>
+         -->
+      </table>
+    </div>
+  </body>
 </html>
