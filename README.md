@@ -23,7 +23,7 @@
 ### [任务八：响应式网格（栅格化）布局](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-8)
 ![Task 8 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_8_1.png)
 
-### [任务九：使用HTML/CSS实现一个复杂页面](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-0-partial)
+### [任务九：使用HTML/CSS实现一个复杂页面（统计与项目部分）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-0-partial)
 ![Task 9 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_9_2.jpg)
 
 ### [任务十：Flexbox 布局练习](http://ife.baidu.com/task/detail?taskId=10)
