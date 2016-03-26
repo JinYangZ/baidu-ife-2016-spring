@@ -24,7 +24,7 @@
 ![Task 8 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-8/task-8-mockup.png)
 
 ### [任务九：使用HTML/CSS实现一个复杂页面（统计与项目部分）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-0-partial)
-![Task 9 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-9/task-9-mockup.png)
+![Task 9 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-9-partial/task-9-mockup.png)
 
 ### [任务十：Flexbox 布局练习](http://ife.baidu.com/task/detail?taskId=10)
 
