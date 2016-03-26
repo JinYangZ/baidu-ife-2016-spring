@@ -17,15 +17,15 @@ http://andy1li.github.io/baidu-ife-2016-spring/
 ### [任务五：零基础HTML及CSS编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-5)
 [![Task 5 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5-mockup.jpg)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)
 
-### 任务六：通过HTML及CSS模拟报纸排版[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-6)
+### [任务六：通过HTML及CSS模拟报纸排版][（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-6)
 ![Task 6 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-6/task-6-mockup.jpg)
 
-### 任务七：实现常见的技术产品官网的页面架构及样式布局[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-7)
+### [任务七：实现常见的技术产品官网的页面架构及样式布局]
 
-### 任务八：响应式网格（栅格化）布局[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-8)
+### [任务八：响应式网格（栅格化）布局][（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-8)
 ![Task 8 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-8/task-8-mockup.png)
 
-### 任务九：使用HTML/CSS实现一个复杂页面（统计与项目部分）[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-9)
+### 任务九：使用HTML/CSS实现一个复杂页面（统计与项目部分）[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-9-partial)
 ![Task 9 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-9-partial/task-9-mockup.jpg)
 
 ### [任务十：Flexbox 布局练习]
