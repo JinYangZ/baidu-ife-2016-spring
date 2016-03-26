@@ -1,13 +1,13 @@
 # 百度前端技术学院2016春季班任务
 
-## [第一阶段](http://mp.weixin.qq.com/s?__biz=MzA4MjUyNjY3Nw==&mid=401956006&idx=1&sn=bbf72ea5c17894c3a5423d8b3bdb7d9a#rd)
+## 第一阶段
 
-### 任务一：零基础HTML编码
+### [任务一：零基础HTML编码]
 
-### 任务二：零基础HTML及CSS编码（一）
+### [任务二：零基础HTML及CSS编码（一）]
 
-### [任务三：三栏式布局
-![Task 3 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3-mockup.png)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
+### [任务三：三栏式布局](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
+[![Task 3 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3-mockup.png)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
 
 ### [任务四：定位和居中问题](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4.html)
 ![Task 4 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4-mockup.png)
@@ -26,14 +26,14 @@
 ### 任务九：使用HTML/CSS实现一个复杂页面（统计与项目部分）
 ![Task 9 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-9-partial/task-9-mockup.jpg)
 
-### 任务十：Flexbox 布局练习
+### [任务十：Flexbox 布局练习]
 
-### 任务十一：移动Web页面布局实践
+### [任务十一：移动Web页面布局实践]
 
-### 任务十二：学习CSS 3的新特性
+### [任务十二：学习CSS 3的新特性]
 
 
-## [第二阶段](http://mp.weixin.qq.com/s?__biz=MzA4MjUyNjY3Nw==&mid=402057593&idx=1&sn=ef20d1808470688bee1c8e242349b47c#rd)
+## 第二阶段
 
 ### [任务十三：零基础JavaScript编码（一）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-13/task-13.html)
 
