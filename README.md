@@ -16,7 +16,7 @@
 ![Task 5 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5-mockup.png)
 
 ### [任务六：通过HTML及CSS模拟报纸排版](http://ife.baidu.com/task/detail?taskId=6)
-![Task 6 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-6/task-6-mockup.png)
+![Task 6 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-6/task-6-mockup.jpg)
 
 ### [任务七：实现常见的技术产品官网的页面架构及样式布局](http://ife.baidu.com/task/detail?taskId=7)
 
