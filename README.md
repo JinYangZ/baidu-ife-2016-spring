@@ -13,7 +13,7 @@
 ![Task 4 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4-mockup.png)
 
 ### [任务五：零基础HTML及CSS编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)
-![Task 5 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5-mockup.png)
+![Task 5 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5-mockup.jpg)
 
 ### [任务六：通过HTML及CSS模拟报纸排版](http://ife.baidu.com/task/detail?taskId=6)
 ![Task 6 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-6/task-6-mockup.jpg)
