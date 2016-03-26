@@ -6,25 +6,25 @@
 
 ### [任务二：零基础HTML及CSS编码（一）](http://ife.baidu.com/task/detail?taskId=2)
 
-### [任务三：三栏式布局](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-3)
-![Task 3 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_3_1.png)
+### [任务三：三栏式布局](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
+![Task 3 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3-mockup.png)
 
-### [任务四：定位和居中问题](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-4)
-![Task 4 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_4_1.png)
+### [任务四：定位和居中问题](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4.html)
+![Task 4 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4-mockup.png)
 
-### [任务五：零基础HTML及CSS编码（二）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-5)
-![Task 5 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)
+### [任务五：零基础HTML及CSS编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)
+![Task 5 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5-mockup.png)
 
-### [任务六：通过HTML及CSS模拟报纸排版](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-6)
-![Task 6 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_6_2.jpg)
+### [任务六：通过HTML及CSS模拟报纸排版](http://ife.baidu.com/task/detail?taskId=6)
+![Task 6 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-6/task-6-mockup.png)
 
 ### [任务七：实现常见的技术产品官网的页面架构及样式布局](http://ife.baidu.com/task/detail?taskId=7)
 
 ### [任务八：响应式网格（栅格化）布局](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-8)
-![Task 8 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_8_1.png)
+![Task 8 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-8/task-8-mockup.png)
 
-### [任务九：使用HTML/CSS实现一个复杂页面](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-0-partial)
-![Task 9 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_1_9_2.jpg)
+### [任务九：使用HTML/CSS实现一个复杂页面（统计与项目部分）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-0-partial)
+![Task 9 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-9/task-9-mockup.png)
 
 ### [任务十：Flexbox 布局练习](http://ife.baidu.com/task/detail?taskId=10)
 
@@ -35,13 +35,13 @@
 
 ## [第二阶段](http://mp.weixin.qq.com/s?__biz=MzA4MjUyNjY3Nw==&mid=402057593&idx=1&sn=ef20d1808470688bee1c8e242349b47c#rd)
 
-### [任务十三：零基础JavaScript编码（一）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-13)
+### [任务十三：零基础JavaScript编码（一）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-13/task-13.html)
 
-### [任务十四：零基础JavaScript编码（二）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-14)
+### [任务十四：零基础JavaScript编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-14/task-14.html)
 
-### [任务十五：零基础JavaScript编码（三）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-15)
+### [任务十五：零基础JavaScript编码（三）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-15/task-15.html)
 
-### [任务十六：零基础JavaScript编码（四）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-16)
+### [任务十六：零基础JavaScript编码（四）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-16/task-16.html)
 
 ### [任务十七：零基础JavaScript编码（五）]()
 
