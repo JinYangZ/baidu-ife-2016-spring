@@ -10,10 +10,10 @@
 [![Task 3 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3-mockup.png)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
 
 ### [任务四：定位和居中问题](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4.html)
-![Task 4 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4-mockup.png)
+[![Task 4 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4-mockup.png)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4.html)
 
 ### [任务五：零基础HTML及CSS编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)
-![Task 5 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5-mockup.jpg)
+[![Task 5 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5-mockup.jpg)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)
 
 ### 任务六：通过HTML及CSS模拟报纸排版
 ![Task 6 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-6/task-6-mockup.jpg)
