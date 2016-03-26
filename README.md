@@ -4,9 +4,9 @@ http://andy1li.github.io/baidu-ife-2016-spring/
 
 ## 第一阶段
 
-### [任务一：零基础HTML编码][（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-1)
+### [任务一：零基础HTML编码]
 
-### [任务二：零基础HTML及CSS编码（一）][（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-2)
+### [任务二：零基础HTML及CSS编码（一）]
 
 ### [任务三：三栏式布局](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-3)
 [![Task 3 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3-mockup.png)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
@@ -22,10 +22,10 @@ http://andy1li.github.io/baidu-ife-2016-spring/
 
 ### 任务七：实现常见的技术产品官网的页面架构及样式布局[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-7)
 
-### 任务八：响应式网格（栅格化）布局
+### 任务八：响应式网格（栅格化）布局[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-8)
 ![Task 8 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-8/task-8-mockup.png)
 
-### 任务九：使用HTML/CSS实现一个复杂页面（统计与项目部分）
+### 任务九：使用HTML/CSS实现一个复杂页面（统计与项目部分）[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-9)
 ![Task 9 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-9-partial/task-9-mockup.jpg)
 
 ### [任务十：Flexbox 布局练习]
@@ -37,13 +37,13 @@ http://andy1li.github.io/baidu-ife-2016-spring/
 
 ## 第二阶段
 
-### [任务十三：零基础JavaScript编码（一）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-13/task-13.html)
+### [任务十三：零基础JavaScript编码（一）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-13/task-13.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-13)
 
-### [任务十四：零基础JavaScript编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-14/task-14.html)
+### [任务十四：零基础JavaScript编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-14/task-14.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-14)
 
-### [任务十五：零基础JavaScript编码（三）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-15/task-15.html)
+### [任务十五：零基础JavaScript编码（三）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-15/task-15.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-15)
 
-### [任务十六：零基础JavaScript编码（四）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-16/task-16.html)
+### [任务十六：零基础JavaScript编码（四）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-16/task-16.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-16)
 
 ### [任务十七：零基础JavaScript编码（五）]
 
