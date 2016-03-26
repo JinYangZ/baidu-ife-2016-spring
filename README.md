@@ -4,23 +4,23 @@ http://andy1li.github.io/baidu-ife-2016-spring/
 
 ## 第一阶段
 
-### [任务一：零基础HTML编码]
+### [任务一：零基础HTML编码][（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-1)
 
-### [任务二：零基础HTML及CSS编码（一）]
+### [任务二：零基础HTML及CSS编码（一）][（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-2)
 
-### [任务三：三栏式布局](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
+### [任务三：三栏式布局](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-3)
 [![Task 3 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3-mockup.png)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
 
-### [任务四：定位和居中问题](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4.html)
+### [任务四：定位和居中问题](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-4)
 [![Task 4 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4-mockup.png)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-4/task-4.html)
 
-### [任务五：零基础HTML及CSS编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)
+### [任务五：零基础HTML及CSS编码（二）](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-5)
 [![Task 5 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5-mockup.jpg)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-5/task-5.html)
 
-### 任务六：通过HTML及CSS模拟报纸排版
+### 任务六：通过HTML及CSS模拟报纸排版[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-6)
 ![Task 6 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-6/task-6-mockup.jpg)
 
-### 任务七：实现常见的技术产品官网的页面架构及样式布局
+### 任务七：实现常见的技术产品官网的页面架构及样式布局[（任务说明）](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-7)
 
 ### 任务八：响应式网格（栅格化）布局
 ![Task 8 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-8/task-8-mockup.png)
