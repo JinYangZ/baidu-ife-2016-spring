@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -10,7 +12,7 @@ body {
 }
 
 main {
-  max-width: 850px;
+  max-width: 970px;
   margin: 0 auto;
   padding: 15px 40px;
   background-color: #eee;
@@ -26,37 +28,41 @@ main {
   justify-content: space-between;
   width: 100%;
   margin: 5px 0 10px;
-  font-size: 12px;
 }
 
-.stats-card {
+[class*=stats-card-] {
   position: relative;
   background-color: white;
   margin-right: 25px;
   padding: 10px;
-  height: 65px;
+  height: 70px;
   width: 25%;
-  border: 1.5px solid #d4d4d4;
+  border: 1px solid #d4d4d4;
   border-left: 4px solid #d4d4d4;
   border-radius: 2px;
 }
 
-.stats-card:last-child {
+[class*=stats-card-]:last-child {
   margin: 0;
 }
 
-.stats-card .vol {
+[class*=stats-card-] .vol {
   position: absolute;
-  top: 15px;
+  top: 18px;
+  font-size: 10px;
+  -webkit-transform-origin-x: 0;
+  -webkit-transform: scale(0.95);
 }
-.stats-card .vol-label {
+[class*=stats-card-] .vol-label {
   position: absolute;
-  bottom: 10px;
+  bottom: 12px;
   font-size: 8px;
   color: #a9a9a9;
+  -webkit-transform-origin-x: 0;
+  -webkit-transform: scale(0.85);
 }
 
-.stats-card .vol-bar {
+[class*=stats-card-] .vol-bar {
   background-color: #d4d4d4;
   position: absolute;
   right: 10px;
@@ -70,16 +76,16 @@ main {
 /* stats-card (different colors)  
    vol-bar (different heights)  */
 
-.stats-card.stats-card-green {
+.stats-card-green {
   border-left-color: rgb(67, 178, 156);
 }
-.stats-card.stats-card-blue {
+.stats-card-blue {
   border-left-color: rgb(57, 138, 193);
 }
-.stats-card.stats-card-red {
+.stats-card-red {
   border-left-color: rgb(207, 75, 54);
 }
-.stats-card.stats-card-yellow {
+.stats-card-yellow {
   border-left-color: rgb(225, 205, 70);
 }
 
@@ -104,6 +110,7 @@ main {
 /* row */
 
 .row {
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }
@@ -111,23 +118,23 @@ main {
 
 /* card */
 
-.card {
+.card-wide, .card-narrow {
   background-color: white;
   margin: 0 10px 10px 0;
   width: 50%;
-  height: 300px; 
-  border: 1.5px solid #d4d4d4;
+  height: 355px; 
+  border: 1px solid #d4d4d4;
   border-radius: 5px;
   overflow: hidden;
 }
-.card:last-child {
+.card-wide:last-child, .card-narrow:last-child {
   margin: 0;
 }
 
-.card.card-wide {
+.card-wide {
   width: 60%;
 }
-.card.card-narrow {
+.card-narrow {
   width: 40%;
 }
 
@@ -141,7 +148,183 @@ main {
 }
 
 .card-content {
-  padding: 10px 20px;
+  padding: 15px 20px 20px;
   height: 100%;
   width: 100%;
 }
+
+
+/* tabs */
+
+.tabs {
+  position: relative;
+}
+
+.tabs li {
+  float: left;
+  display: block;
+  margin-right: 4px;
+}
+
+.tabs input[type="radio"] {
+  display: none; 
+}
+
+.tabs label {
+  position: relative;
+  cursor: pointer;
+  width:88px;
+  height:30px;
+  display: block;
+  text-align: center;
+  line-height: 30px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #d5d5d5;
+  border-radius: 5px 5px 0 0;
+  color:#535353;
+  font-size: 13px;
+  z-index: 1;
+}
+.tabs input:checked ~ label { 
+  background: white;
+  border: 1px solid #d5d5d5;
+  border-bottom: 1px solid white;
+}
+
+.tab-content {
+  display: none;  /* input未选中时隐藏.tab-content */
+  position: absolute;
+  top: 29px;
+  left: 0;
+  height: 235px;
+  width: 480px;
+  border: 1px solid #d5d5d5;
+  border-radius: 0 5px 5px 5px;
+  z-index: 0;
+}
+
+.tabs input:checked ~ .tab-content {
+  display: block; /* input选中时显示.tab-content */
+}
+
+
+/* table-project */
+
+.table-project {
+  border-collapse: collapse;
+  margin: 23px 35px;
+}
+
+.table-project td {
+  border: 1px solid #d5d5d5;  
+  padding: 5px 10px;
+  height: 30px;
+  width: 100px;
+  text-align: center;
+}
+.table-project td:hover {
+  background-color: #f5f5f5;
+}
+
+
+/* project-detail*/
+
+.project-detail * {
+  font-family: inherit;
+  font-size: 12px;
+}
+
+.project-detail form {
+  margin-right: 15px;
+}
+
+.project-detail .project-item {
+  border-bottom: 1px solid #ddd;
+}
+.project-detail .project-item:last-child {
+  padding-top: 5px;
+  border-bottom: none;
+}
+
+.project-detail .same-line{
+  display: inline-block;
+}
+.project-detail .same-line:first-child{
+  padding-right: 5px;
+  border-right: 1px solid #ddd;
+}
+
+.same-line span {
+  display: inline-block;
+  margin-left: 13px;
+}
+.same-line span + input {
+  margin-left: 0px;
+}
+
+
+.project-detail label {
+  display: block;
+  color: #bbb;
+  margin: 3px 10px 2px 15px;
+}
+.project-detail div:first-child label {
+  margin-top: 0;
+}
+#project-confi + label {
+  cursor: pointer;
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  color: #bbb;
+  top: -2px;
+  left: -14px;
+}
+
+
+.project-detail input, #project-desc {
+  border: none;
+  margin: 3px 10px 8px 15px;
+}
+
+#project-title {
+  width: 270px;
+}
+#project-price {
+  width: 70px;
+}
+#project-leader {
+  width: 152px;
+}
+#project-desc {
+  height: 100px;
+  width: 270px;
+}
+#project-confi {
+  margin: 9px 0 0 0;
+  background: #ddd;
+  cursor: pointer;
+  -webkit-appearance: none;
+  outline: none;
+  height: 14px;
+  width: 14px;
+}
+#project-confi:checked {
+  background: #d5d5d5 url(img/check.png) no-repeat center;
+}
+#project-btn-search {
+  float: right;
+}
+.btn-search {
+  cursor: pointer;
+  width: 51px;
+  height: 26px;
+  background: #388ac1;
+  color: white;
+  text-align: center;
+  line-height: 26px;
+  border-radius: 2px;
+}
+.btn-search:hover {
+  background: #236b9b;
+};

@@ -7,24 +7,24 @@
   </head>
   <body>
     <main>
-      <div>2016年4月统计</div>
+      <p>2016年4月统计</p>
       <div class="stats-panel">
-        <div class="stats-card stats-card-green">
+        <div class="stats-card-green">
           <div class="vol-bar"></div>
           <div class="vol">333311</div>
-          <div class="vol-label">成交量</div>
+          <div class="vol-label"><small>成交量</small></div>
         </div>
-        <div class="stats-card stats-card-blue">
+        <div class="stats-card-blue">
           <div class="vol-bar"></div>
           <div class="vol">733311</div>
           <div class="vol-label">成交量</div>
         </div>
-        <div class="stats-card stats-card-red">
+        <div class="stats-card-red">
           <div class="vol-bar"></div>
           <div class="vol">233311</div>
           <div class="vol-label">成交量</div>
         </div>
-        <div class="stats-card stats-card-yellow">
+        <div class="stats-card-yellow">
           <div class="vol-bar"></div>
           <div class="vol">533311</div>
           <div class="vol-label">成交量</div>
@@ -32,26 +32,126 @@
       </div><!-- end of stats-panel -->
 
       <div class="row">
-        <div class="card card-wide">
-          <div class="card-header">第一组项目</div>
-          <div class="card-content">t</div>    
-        </div>
-        <div class="card card-narrow">
-          <div class="card-header">第一组项目</div>
-          <div class="card-content">t</div>    
-        </div>
-      </div>
-      
-      <div class="row">
-        <div class="card card-narrow">
-          <div class="card-header">日历（多加一行row，用来测试margin）</div>
-          <div class="card-content">t</div>    
-        </div>
-        <div class="card card-wide">
-          <div class="card-header">汽车品牌排行榜（多加一行row，用来测试margin）</div>
-          <div class="card-content">t</div>    
-        </div>
-      </div>
+          <div class="card-wide">
+              <div class="card-header">第一组项目</div>
+              <div class="card-content">
+                  <ul class="tabs">
+                      <li>
+                          <input type="radio" name="tabs" id="tab1" checked>
+                          <label for="tab1">项目一</label>
+                          <div class="tab-content">
+                              <table class="table-project">
+                                  <tbody>
+                                      <tr><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td></tr>
+                                      <tr><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td></tr>
+                                      <tr><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td></tr>
+                                      <tr><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td></tr>
+                                      <tr><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td></tr>
+                                      <tr><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td><td>购买材料一</td></tr>
+                                  </tbody>
+                              </table>
+                          </div>
+                      </li>
+                      <li>
+                          <input type="radio" name="tabs" id="tab2">
+                          <label for="tab2">项目二</label>
+                          <div class="tab-content">
+                            <table class="table-project">
+                                  <tbody>
+                                      <tr><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td></tr>
+                                      <tr><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td></tr>
+                                      <tr><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td></tr>
+                                      <tr><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td></tr>
+                                      <tr><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td></tr>
+                                      <tr><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td><td>购买材料二</td></tr>
+                                  </tbody>
+                              </table>
+                          </div>
+                      </li>
+                      <li>
+                          <input type="radio" name="tabs" id="tab3">
+                          <label for="tab3">项目三</label>
+                          <div class="tab-content">
+                              <table class="table-project">
+                                  <tbody>
+                                      <tr><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td></tr>
+                                      <tr><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td></tr>
+                                      <tr><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td></tr>
+                                      <tr><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td></tr>
+                                      <tr><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td></tr>
+                                      <tr><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td><td>购买材料三</td></tr>
+                                  </tbody>
+                              </table>
+                          </div>
+                      </li>
+                      <li>
+                          <input type="radio" name="tabs" id="tab4">
+                          <label for="tab4">项目四</label>
+                          <div class="tab-content">
+                              <table class="table-project">
+                                  <tbody>
+                                      <tr><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td></tr>
+                                      <tr><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td></tr>
+                                      <tr><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td></tr>
+                                      <tr><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td></tr>
+                                      <tr><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td></tr>
+                                      <tr><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td><td>购买材料四</td></tr>
+                                  </tbody>
+                              </table>
+                          </div>
+                      </li>
+                      <li>
+                          <input type="radio" name="tabs" id="tab5">
+                          <label for="tab5">项目五</label>
+                          <div class="tab-content">
+                              <table class="table-project">
+                                  <tbody>
+                                      <tr><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td></tr>
+                                      <tr><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td></tr>
+                                      <tr><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td></tr>
+                                      <tr><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td></tr>
+                                      <tr><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td></tr>
+                                      <tr><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td><td>购买材料五</td></tr>
+                                  </tbody>
+                              </table>
+                          </div>
+                      </li>
+                  </ul><!-- end of tabs  -->
+              </div><!-- end of card-content  -->     
+          </div><!-- end of card-wide  -->
+
+          <div class="card-narrow project-detail">
+              <div class="card-header">第一组项目</div>
+              <div class="card-content">
+                  <form action="">
+                      <div class="project-item">
+                          <label for="project-title">标题</label>
+                          <input type="text" id="project-title" value="项目报表三">
+                      </div>
+                      <div class="project-item">
+                          <div class="same-line">
+                              <label for="project-price">价格</label>
+                              <span>￥</span>
+                              <input type="text" id="project-price" value="158">
+                          </div>
+                          <div class="same-line">
+                              <label for="project-leader">负责人</label>
+                              <input type="text" id="project-leader" value="欧阳锋">
+                          </div>
+                      </div>
+                      <div class="project-item">
+                          <label for="project-desc">详细描述</label>
+                          <textarea type="text" id="project-desc">该项目目前负责人是……</textarea>
+                      </div>
+                      <div class="project-item">
+                          <input type="checkbox" id="project-confi">
+                          <label for="project-confi">遵守保密协议</label>
+                          <input id="project-btn-search" class="btn-search" type="submit" value="搜索"></button>
+                      </div>
+                  </form>
+              </div><!-- end of card-content  -->    
+          </div><!-- end of card-narrow  -->
+      </div><!-- end of row  -->
     </main>
   </body>
 </html>
