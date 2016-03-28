@@ -617,7 +617,7 @@ a{
 
 .stats-panel {
   min-width: 450px;
-  display: flex;
+  display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;
   justify-content: space-between;
   width: 100%;
   margin: 5px 0 10px;
@@ -704,7 +704,7 @@ a{
 
 .row {
   width: 100%;
-  display: flex;
+  display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;
   justify-content: space-between;
 }
 
