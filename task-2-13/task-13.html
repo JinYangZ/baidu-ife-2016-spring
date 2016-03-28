@@ -24,12 +24,8 @@
       var button  = document.getElementById('button');
       var display = document.getElementById('aqi-display');
 
-      button.addEventListener('click', function(){
-        if (input.value) {
-          display.textContent = input.value;
-        } else {
-          display.textContent = '尚无录入';
-        }
+      button.addEventListener('click', function() {
+        display.textContent = input.value || '尚无录入';
       });
 
     })();
