@@ -33,14 +33,14 @@
         
         var cnNum =['一','二','三','四','五','六'];
 
-        var $rankLis = aqiData.filter(function(cityElem) {
-          return cityElem[1] > 60;
+        var $rankLis = aqiData.filter(function(city) {
+          return city[1] > 60;
         })
         .sort(function(next, current) {
           return +current[1] > +next[1];
         })
-        .map(function(cityElem, index) {
-          return '<li>第' + cnNum[index] + '名：' + cityElem[0] + '，' + cityElem[1] + '</li>'
+        .map(function(city, i) {
+          return '<li>第' + cnNum[i] + '名：' + city[0] + '，' + city[1] + '</li>'
         });
 
         console.log($rankLis);
