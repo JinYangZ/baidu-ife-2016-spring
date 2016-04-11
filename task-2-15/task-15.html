@@ -70,14 +70,15 @@
        * 将排好序的城市及空气质量指数，输出显示到id位resort的列表中
        * 格式见ul中的注释的部分
        */
-      function render(cities) {
-        var cnNum=['一','二','三','四','五','六','七'];
-        
-        var $lis = cities.map(function(city, i) {
+      function render(cities) { 
+        var $ulResort = document.getElementById('resort'),
+            cnNum     = ['一','二','三','四','五','六','七'];
+         
+        function fromCityToLi(city, i) {
           return '<li>第' + cnNum[i] + '名：' + city[0] + '空气质量：<b>' + city[1] + '</b></li>';
-        });
+        };
 
-        document.getElementById('resort').innerHTML = $lis.join('');
+        $ulResort.innerHTML = cities.map(fromCityToLi).join('');
       }
 
       function btnHandle() {

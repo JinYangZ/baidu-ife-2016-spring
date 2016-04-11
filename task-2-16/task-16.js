@@ -46,14 +46,19 @@ window.onload = function () {
    * 渲染aqi-table表格
    */
   function renderAqiList() {
-    var $table = ['<thead><th>城市</th><th>空气质量</th><th>操作</th></thead>'],
-        cities = Object.keys(aqiData);
+    var cities = Object.keys(aqiData);
 
-    $table = $table.concat(cities.map(function(city) {
-      return "<tr><td>"+city+"</td><td>"+aqiData[city]+"</td><td><button data-city='"+city+"' class='btn btn-danger'>删除</button></td></tr>"
-    }));
-    
-    $aqiTable.innerHTML = cities.length ? $table.join('') : '';
+    if (cities.length) {
+      $tableHeader = ['<thead><th>城市</th><th>空气质量</th><th>操作</th></thead>'];
+      $tableContent = cities.map(function(city) {
+        return "<tr><td>"+city+"</td><td>"+aqiData[city]+"</td><td><button data-city='"+city+"' class='btn btn-danger'>删除</button></td></tr>"
+      });
+
+      $aqiTable.innerHTML = $tableHeader.concat($tableContent).join('');
+
+    } else {
+      $aqiTable.innerHTML = '';
+    }
   }
 
   /**

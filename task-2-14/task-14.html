@@ -31,24 +31,22 @@
         将空气质量指数大于60的城市显示到aqi-list的列表中
         */
         
-        var cnNum =['一','二','三','四','五','六'];
+        var $aqiList = document.getElementById('aqi-list'),
+            cnNum =['一','二','三','四','五','六'];
 
-        var $rankLis = aqiData.filter(function(city) {
+        // filter -> sort -> map -> join
+        $aqiList.innerHTML = aqiData.filter(function(city) {
           return city[1] > 60;
         })
         .sort(function(next, current) {
           return +current[1] > +next[1];
         })
         .map(function(city, i) {
-          return '<li>第' + cnNum[i] + '名：' + city[0] + '，' + city[1] + '</li>'
-        });
+          return '<li>第' + cnNum[i] + '名：' + city[0] + '，' + city[1] + '</li>';
+        })
+        .join('');
 
-        console.log($rankLis);
-
-        document.getElementById('aqi-list').innerHTML = $rankLis.join('');
-        
       })();
-
     </script>
   </body>
 </html>
