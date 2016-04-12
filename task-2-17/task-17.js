@@ -56,8 +56,10 @@ window.onload = function () {
   function getColor(aqi) {
     // aqi scale colors: http://www.air.dnr.state.ga.us/information/aqi.html 
     
-    var colors = ["#00BB00", "#FFFF66", "#FF9800", 
-                  "#FF0000", "#990044", "#000000"]
+    // var colors = ["#00BB00", "#FFFF66", "#FF9800", 
+    //               "#FF0000", "#990044", "#000000"]
+    var colors = ["#7dd096", "#ffe89a", "#eca400", 
+                  "#b24d37", "#9e5c75", "#727272"]
 
     switch(true) {
       case (aqi <= 50):
