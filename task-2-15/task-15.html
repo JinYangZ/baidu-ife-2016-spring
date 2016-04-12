@@ -45,14 +45,12 @@
           ……
         ]
         */
-        var data = [],
-            lis = document.getElementById('source').getElementsByTagName('li');
-
-        for (var i = 0; i < lis.length; ++i) {
-          var city_aqi = lis[i].innerText.split('空气质量：');
-          data.push(city_aqi);
-        }
-  
+        var $cityLis = document.getElementById('source').getElementsByTagName('li');
+            
+        var data = [].map.call($cityLis, function(cityLi) {
+          return cityLi.innerText.split('空气质量：');
+        })
+        
         return data;
       }
 
@@ -72,15 +70,15 @@
        * 将排好序的城市及空气质量指数，输出显示到id位resort的列表中
        * 格式见ul中的注释的部分
        */
-      function render(cities) {
-        var cnNum=['一','二','三','四','五','六','七'],
-            lis = '';
-
-        for(var i in cities){
-          lis += '<li>第' + cnNum[i] + '名：' + cities[i][0] + '空气质量：<b>' + cities[i][1] + '</b></li>';
+      function render(cities) { 
+        var $ulResort = document.getElementById('resort'),
+            cnNum     = ['一','二','三','四','五','六','七'];
+         
+        function fromCityToLi(city, i) {
+          return '<li>第' + cnNum[i] + '名：' + city[0] + '空气质量：<b>' + city[1] + '</b></li>';
         };
 
-        document.getElementById('resort').innerHTML = lis;
+        $ulResort.innerHTML = cities.map(fromCityToLi).join('');
       }
 
       function btnHandle() {

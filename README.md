@@ -45,7 +45,7 @@ http://andy1li.github.io/baidu-ife-2016-spring/
 
 ### [任务十六：零基础JavaScript编码（四）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-16/task-16.html)[【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-16)
 
-### [任务十七：零基础JavaScript编码（五）][【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-17)
+### [任务十七：零基础JavaScript编码（五）](http://andy1li.github.io/baidu-ife-2016-spring/task-2-17/task-17.html)[【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-17)
 ![Task 17 chart](http://7xrp04.com1.z0.glb.clouddn.com/task_2_17_1.jpg)
 
 
@@ -90,4 +90,3 @@ http://andy1li.github.io/baidu-ife-2016-spring/
 ### [任务三十五：听指令的小方块（三）]
 
 ### [任务三十六：听指令的小方块（四）]
-
