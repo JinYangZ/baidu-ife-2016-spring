@@ -62,3 +62,8 @@
 ### 在线学习参考资料
 * [JavaScript入门篇](http://www.imooc.com/view/36)
 * [MDN JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
+
+### 高分团队
+团队：[js高手之路](http://ife.baidu.com/group/profile?groupId=2967)
+代码地址：https://github.com/jshacker007/ife2016/blob/master/stage2/task13/index.html
+demo：http://jshacker007.github.io/ife2016/stage2/task13/index.html
