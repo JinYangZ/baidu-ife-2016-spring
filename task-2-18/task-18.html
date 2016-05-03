@@ -2,13 +2,21 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>IFE JavaScript Task 01</title>
+    <title>IFE JavaScript Task 18</title>
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="task-18.css">
     <script src="task-18.js"></script>
   </head>
   <body>
     <div class="container">
-      
+      <label>输入数字：</label>
+      <button class="btn btn-danger" id="left-out">&lt 删除队首</button>
+      <input type="number" id="left-input" autofocus/>
+      <button class="btn btn-primary" id="left-in">插入队首 &gt</button>
+      <span id="result"></span>
+      <button class="btn btn-primary" id="right-in">&lt 插入队尾</button>
+      <input type="number" id="right-input" autofocus/>
+      <button class="btn btn-danger" id="right-out">删除队尾 &gt</button>
     </div>
   </body>
 </html>
