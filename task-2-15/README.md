@@ -122,3 +122,8 @@
 ### 在线学习参考资料
 * [JavaScript入门篇](http://www.imooc.com/view/36)
 * [MDN JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
+
+### 高分团队
+团队：[海贼兄弟](http://ife.baidu.com/group/profile?groupId=4060)
+代码地址：https://github.com/soulclearm/Learn_front_end/blob/dev/public/second/task15.html
+demo：http://behappy.leanapp.cn/second/task15.html

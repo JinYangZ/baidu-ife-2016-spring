@@ -203,3 +203,8 @@ init();
 ### 在线学习参考资料
 * [JavaScript入门篇](http://www.imooc.com/view/36)
 * [MDN JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
+
+### 高分团队
+团队：[瞅啥啊](http://ife.baidu.com/group/profile?groupId=552)
+代码地址：https://github.com/hansneil/hansneil.github.io/tree/master/baidu_ife/2-17
+demo：http://hansneil.github.io/baidu_ife/2-17/index.html

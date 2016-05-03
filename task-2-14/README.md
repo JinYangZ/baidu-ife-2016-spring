@@ -72,3 +72,8 @@
 ### 在线学习参考资料
 * [JavaScript入门篇](http://www.imooc.com/view/36)
 * [MDN JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
+
+### 高分团队
+团队：[wdss](http://ife.baidu.com/group/profile?groupId=2944)
+代码地址：https://github.com/qweewq123/qweewq123.github.io/blob/master/14/index.html
+demo：http://qweewq123.github.io/14/

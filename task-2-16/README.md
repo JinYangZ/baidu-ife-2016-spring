@@ -127,3 +127,8 @@ init();
 ### 在线学习参考资料
 * [JavaScript入门篇](http://www.imooc.com/view/36)
 * [MDN JavaScript](https://developer.mozilla.org/en/docs/Web/JavaScript)
+
+### 高分团队
+团队：[东北财经大学网络学院](http://ife.baidu.com/group/profile?groupId=446)
+代码地址：https://github.com/menhal/menhal.github.io/tree/master/tasks/stage2/task16/menghao
+demo：http://menhal.github.io/tasks/stage2/task16/menghao/

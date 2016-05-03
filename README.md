@@ -55,7 +55,8 @@ http://ife.baidu.com/
 ![Task 17 chart](http://7xrp04.com1.z0.glb.clouddn.com/task_2_17_1.jpg)
 
 
-### [任务十八  ：基础JavaScript练习（一）]
+### [任务十八  ：基础JavaScript练习（一）][【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-2-18)
+![Task 18 Mockup](http://7xrp04.com1.z0.glb.clouddn.com/task_2_18_1.jpg)
 
 ### [任务十九  ：基础JavaScript练习（二）]
 
