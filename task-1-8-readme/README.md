@@ -27,3 +27,8 @@
 * [Bootstrap grid examples](https://getbootstrap.com/examples/grid/)：改变浏览器宽度，查看不同类名元素的表现，理解网格系统的作用。然后，通过“审查元素”查看对应 CSS，思考这一系统是如何实现的
 * [BootStrap 带 offset 的网格系统](http://getbootstrap.com/2.3.2/scaffolding.html#gridSystem)
 * [Creating Your Own CSS Grid System](http://j4n.co/blog/Creating-your-own-css-grid-system)：你可以先自己想想怎么实现，没有思路的话看看别人的做法
+
+### 高分团队
+团队：[yyqqhh](http://ife.baidu.com/group/profile?groupId=1273)
+代码地址：https://github.com/liujianhuanzz/ife_2016_spring
+demo：http://www.hhspace.cn/ife/task_1_8.html

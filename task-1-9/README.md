@@ -39,3 +39,8 @@
 ### 在线学习参考资料
 * [MDN HTML入门](https://developer.mozilla.org/en/docs/Web/Guide/HTML/Introduction)
 * [MDN CSS入门教程](https://developer.mozilla.org/en/docs/Web/Guide/CSS/Getting_started)
+
+### 高分团队
+团队：[上海大前端](http://ife.baidu.com/group/profile?groupId=1196)
+代码地址：https://github.com/iamlany/baiduClass/tree/master/classTo9
+demo：http://htmlpreview.github.io/?https://github.com/iamlany/baiduClass/blob/master/classTo9/index.html
