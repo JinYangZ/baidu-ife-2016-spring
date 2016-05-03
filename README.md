@@ -1,12 +1,14 @@
-# 百度前端技术学院2016春季班任务
+# [百度前端技术学院2016春季班任务](http://andy1li.github.io/baidu-ife-2016-spring/)
 
-http://andy1li.github.io/baidu-ife-2016-spring/
+http://ife.baidu.com/
 
 ## 第一阶段
 
-### [任务一：零基础HTML编码]
+### [任务一：零基础HTML编码][【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-1-readme)
+![Task 1 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-1-readme/task-1-mockup.jpg)
 
-### [任务二：零基础HTML及CSS编码（一）]
+### [任务二：零基础HTML及CSS编码（一）][【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-2-readme)
+![Task 2 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-2-readme/task-2-mockup.jpg)
 
 ### [任务三：三栏式布局](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)[【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-3)
 [![Task 3 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3-mockup.png)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-3/task-3.html)
