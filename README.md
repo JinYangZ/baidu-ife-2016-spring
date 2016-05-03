@@ -32,12 +32,13 @@ http://ife.baidu.com/
 [![Task 9 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-9/task-9-mockup.jpg)](http://andy1li.github.io/baidu-ife-2016-spring/task-1-9/task-9.html)
 
 ### [任务十：Flexbox 布局练习][【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-10-readme)
-![Task 8 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-10-readme/task-10-mockup.png)
+![Task 10 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-10-readme/task-10-mockup.png)
 
+### [任务十一：移动Web页面布局实践][【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-11-readme)
+![Task 11 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-11-readme/task-11-mockup.jpg)
 
-### [任务十一：移动Web页面布局实践]
-
-### [任务十二：学习CSS 3的新特性]
+### [任务十二：学习CSS 3的新特性][【任务说明】](https://github.com/andy1li/baidu-ife-2016-spring/tree/master/task-1-12-readme)
+![Task 12 Mockup](http://andy1li.github.io/baidu-ife-2016-spring/task-1-12-readme/task-12-mockup.jpg)
 
 
 ## 第二阶段
