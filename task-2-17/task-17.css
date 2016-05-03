@@ -4,6 +4,12 @@
   padding: 0;
 }
 
+.container {
+  max-width: 1200px;
+  min-width: 800px;
+  margin: auto;
+  margin-top: 20px;
+}
 
 fieldset {
   display: inline-block;
@@ -25,14 +31,6 @@ fieldset select, fieldset label {
 fieldset select{
   border: 1px solid #ccc;
   border-radius: 2px;
-}
-
-
-.container {
-  max-width: 960px;
-  min-width: 800px;
-  margin: auto;
-  margin-top: 20px;
 }
 
 .aqi-chart-wrap {
