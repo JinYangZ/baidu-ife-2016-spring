@@ -29,3 +29,8 @@
 * [Web相关名词通俗解释](https://www.zhihu.com/question/22689579)
 * [MDN HTML入门](https://developer.mozilla.org/en/docs/Web/Guide/HTML/Introduction)
 * [慕课HTML+CSS基础教程视频](http://www.imooc.com/learn/9)
+
+### 高分团队
+团队：[js高手之路](http://ife.baidu.com/group/profile?groupId=2967)
+代码地址：https://github.com/jshacker007/ife2016/blob/master/stage1/task1/index.html
+demo：http://jshacker007.github.io/ife2016/stage1/task1/index.html

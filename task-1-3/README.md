@@ -35,3 +35,8 @@
 * [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)：通过具体的例子熟悉 position 属性
 * [清除浮动（clearfix hack）](http://learnlayout.com/clearfix.html)：清除浮动是什么，如何简单地清除浮动
 * [StackOverflow：Which method of ‘clearfix’ is best?](http://stackoverflow.com/questions/211383/which-method-of-clearfix-is-best)：清除浮动黑科技完整解读
+
+### 高分团队
+团队：[红鲤鱼与绿鲤鱼与驴队](http://ife.baidu.com/group/profile?groupId=2852)
+代码地址：https://github.com/yuanguangxin/Baidu_ife/tree/master/mission1_3
+demo：http://yuanguangxin.github.io/Baidu_ife/mission1_3/index.html

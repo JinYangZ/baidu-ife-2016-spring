@@ -37,3 +37,8 @@
 ### 在线学习参考资料
 * [MDN HTML入门](https://developer.mozilla.org/en/docs/Web/Guide/HTML/Introduction)
 * [MDN CSS入门教程](https://developer.mozilla.org/en/docs/Web/Guide/CSS/Getting_started)
+
+### 高分团队
+团队：[Code Baby](http://ife.baidu.com/group/profile?groupId=1779)
+代码地址：https://github.com/kkx520/code-baby/blob/gh-pages/task6/index.html
+demo：http://kkx520.github.io/code-baby/task6/index.html

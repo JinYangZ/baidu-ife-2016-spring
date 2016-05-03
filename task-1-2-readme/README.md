@@ -34,3 +34,8 @@
 * [MDN HTML入门](https://developer.mozilla.org/en/docs/Web/Guide/HTML/Introduction)
 * [MDN CSS入门教程](https://developer.mozilla.org/en/docs/Web/Guide/CSS/Getting_started)
 * [慕课HTML+CSS基础教程视频](http://www.imooc.com/learn/9)
+
+### 高分团队
+团队：[东北财经大学网络学院](http://ife.baidu.com/group/profile?groupId=446)
+代码地址：https://github.com/menhal/menhal.github.io/blob/master/tasks/stage1/task2/group/index.html
+demo：http://menhal.github.io/tasks/stage1/task2/group/

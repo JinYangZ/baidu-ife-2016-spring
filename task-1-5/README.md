@@ -44,3 +44,8 @@
 * [MDN HTML入门](https://developer.mozilla.org/en/docs/Web/Guide/HTML/Introduction)
 * [MDN CSS入门教程](https://developer.mozilla.org/en/docs/Web/Guide/CSS/Getting_started)
 * [慕课HTML+CSS基础教程视频](http://www.imooc.com/learn/9)
+
+### 高分团队
+团队：[红鲤鱼与绿鲤鱼与驴队](http://ife.baidu.com/group/profile?groupId=2852)
+代码地址：https://github.com/yuanguangxin/Baidu_ife/tree/master/mission1_5
+demo：http://yuanguangxin.github.io/Baidu_ife/mission1_5/index.html
