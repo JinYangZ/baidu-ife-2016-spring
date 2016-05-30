@@ -76,6 +76,7 @@ window.onload = function () {
     $result.addEventListener('click', zoomOut);
 
     $body.addEventListener('animationend', delBtn);
+    $body.addEventListener("webkitAnimationEnd", delBtn);
   }
 
   init();

@@ -62,7 +62,6 @@ input {
     opacity: 0;
     -webkit-transform: scale3d(.3, .3, .3);
             transform: scale3d(.3, .3, .3);
-    -webkit-animation-fill-mode: forwards;
   }
 
   50% {
@@ -98,13 +97,11 @@ input {
 
   50%, to {
     opacity: 0;
-    visibility: hidden;
     width: 0;
     margin: 0;
     padding: 0;
     -webkit-transform: scale3d(.3, .3, .3);
             transform: scale3d(.3, .3, .3);
-    -webkit-animation-fill-mode: forwards;
   }
 
 }
@@ -116,7 +113,6 @@ input {
 
   50%, to {
     opacity: 0;
-    visibility: hidden;
     width: 0;
     margin: 0;
     padding: 0;
