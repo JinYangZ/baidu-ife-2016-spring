@@ -4,17 +4,10 @@ window.onload = function () {
       $rightInput = document.getElementById('right-input');
       $result = document.getElementById('result');
 
-  function focusInput(el) {
-    alert(el.value+el);
-    console.log(numArr);
-    el.value = '';
-    el.focus();
-  }
-
   function ctrlBtn(event) {
     var leftInputValue = $leftInput.value.trim(),
         rightInputValue = $rightInput.value.trim(),
-        target = event.currentTarget,
+        target = event.target,
         id = target.id; 
 
     switch(id) {
@@ -38,7 +31,9 @@ window.onload = function () {
         break;
     }
 
-    focusInput( id.startsWith('left')? $leftInput : $rightInput);
+    var $autoClear = id.startsWith('left')? $leftInput : $rightInput;
+    $autoClear.value = '';
+    $autoClear.focus();
   }
 
   function zoomOut(event) {
@@ -68,7 +63,7 @@ window.onload = function () {
     [$leftInput, $rightInput].forEach(function($input){
       $input.addEventListener('keyup', function(event){
         if(event.keyCode === 13){
-          event.currentTarget.id = event.currentTarget.id.startsWith('left') ? 'left-in' : 'right-in';
+          event.target.id = event.target.id.startsWith('left') ? 'left-in' : 'right-in';
           ctrlBtn(event);
         }
       });
