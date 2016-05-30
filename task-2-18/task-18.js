@@ -13,8 +13,8 @@ window.onload = function () {
   function ctrlBtn(event) {
     var leftInputValue = $leftInput.value.trim(),
         rightInputValue = $rightInput.value.trim(),
-        target = event.target,
-        id = target.id;
+        target = event.currentTarget,
+        id = target.id; 
 
     switch(id) {
       case 'left-in':
@@ -37,6 +37,7 @@ window.onload = function () {
         break;
     }
 
+    // console.log(event);
     focusInput( id.startsWith('left')? $leftInput : $rightInput);
   }
 
@@ -67,7 +68,7 @@ window.onload = function () {
     [$leftInput, $rightInput].forEach(function($input){
       $input.addEventListener('keyup', function(event){
         if(event.keyCode === 13){
-          event.target.id = event.target.id.startsWith('left') ? 'left-in' : 'right-in';
+          event.target.id = event.currentTarget.id.startsWith('left') ? 'left-in' : 'right-in';
           ctrlBtn(event);
         }
       });
