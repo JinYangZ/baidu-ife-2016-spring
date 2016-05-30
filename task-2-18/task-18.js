@@ -5,6 +5,7 @@ window.onload = function () {
       $result = document.getElementById('result');
 
   function focusInput(el) {
+    alert(el.value+el);
     console.log(numArr);
     el.value = '';
     el.focus();
@@ -37,7 +38,6 @@ window.onload = function () {
         break;
     }
 
-    alert(id + ' ' + $leftInput + $leftInput.value + ' ' + $rightInput + $rightInput.value);
     focusInput( id.startsWith('left')? $leftInput : $rightInput);
   }
 
