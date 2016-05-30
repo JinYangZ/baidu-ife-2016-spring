@@ -37,7 +37,7 @@ window.onload = function () {
         break;
     }
 
-    alert(id + $leftInput + $rightInput);
+    alert(id + ' ' + $leftInput + $leftInput.value + ' ' + $rightInput + $rightInput.value);
     focusInput( id.startsWith('left')? $leftInput : $rightInput);
   }
 
