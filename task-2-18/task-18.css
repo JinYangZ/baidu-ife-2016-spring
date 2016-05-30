@@ -60,14 +60,12 @@ input {
     margin: 0;
     width: 0;
     opacity: 0;
-    filter: alpha(opacity=0);
     -webkit-transform: scale3d(.3, .3, .3);
             transform: scale3d(.3, .3, .3);
   }
 
   50% {
     opacity: 1;
-    filter: alpha(opacity=100);
   }
   to {
 
@@ -80,14 +78,12 @@ input {
     margin: 0;
     width: 0;
     opacity: 0;
-    filter: alpha(opacity=0);
     -webkit-transform: scale3d(.3, .3, .3);
             transform: scale3d(.3, .3, .3);
   }
 
   50% {
     opacity: 1;
-    filter: alpha(opacity=100);
   }
   to {
 
@@ -97,12 +93,11 @@ input {
 @-webkit-keyframes zoomOut {
   from {
     opacity: 1;
-    filter: alpha(opacity=100);
   }
 
   50%, to {
     opacity: 0;
-    filter: alpha(opacity=0);
+    visibility: hidden;
     width: 0;
     margin: 0;
     padding: 0;
@@ -115,12 +110,11 @@ input {
 @keyframes zoomOut {
   from {
     opacity: 1;
-    filter: alpha(opacity=100);
   }
 
   50%, to {
     opacity: 0;
-    filter: alpha(opacity=0);
+    visibility: hidden;
     width: 0;
     margin: 0;
     padding: 0;
