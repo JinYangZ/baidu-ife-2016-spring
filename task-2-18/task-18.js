@@ -68,7 +68,7 @@ window.onload = function () {
     [$leftInput, $rightInput].forEach(function($input){
       $input.addEventListener('keyup', function(event){
         if(event.keyCode === 13){
-          event.target.id = event.currentTarget.id.startsWith('left') ? 'left-in' : 'right-in';
+          event.currentTarget.id = event.currentTarget.id.startsWith('left') ? 'left-in' : 'right-in';
           ctrlBtn(event);
         }
       });
