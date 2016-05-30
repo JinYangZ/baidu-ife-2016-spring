@@ -37,7 +37,7 @@ window.onload = function () {
         break;
     }
 
-    // console.log(event);
+    alert(id);
     focusInput( id.startsWith('left')? $leftInput : $rightInput);
   }
 
